@@ -1,0 +1,32 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+body {
+	background-color: #eee;
+}
+
+#wrapper {
+	line-height: 0px;
+	width: 500px;
+	margin: 0 auto;
+}
+
+.block {
+	display: inline-block;
+	background-color: #ccc;
+	padding: 20px 100px;
+	margin: 10px;
+	box-shadow: 4px 4px 4px #999;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	font-weight: normal;
+	font-family: Arial, Sans-serif;
+}
+
+img {
+	cursor: pointer;
+}
